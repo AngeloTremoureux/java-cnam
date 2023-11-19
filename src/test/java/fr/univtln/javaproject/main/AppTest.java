@@ -1,4 +1,4 @@
-package fr.univtln.angelotmx.main;
+package fr.univtln.javaproject.main;
 
 import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.*;
